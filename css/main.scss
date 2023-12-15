@@ -1,7 +1,7 @@
 ---
 # Main Sass file
 ---
-
+@import "{{ site.theme }}";
 // Import all partials from _sass
 @import
     'reset',
